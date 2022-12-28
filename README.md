@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, I'm Sam Teigland!
 
-<!--
-**SamuelTeigland/SamuelTeigland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a student at Lipscomb University studying both business and computer science!  I am currently focusing a lot on learning about web development and design, but also have some experience with databases, data structures and algorithms, cybersecurity, and full-stack development.  As I continue to learn as a programmer and developer, I would like to work my way into full-stack website development.  Below are a few of my links if you would like to follow my journey!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+         <a href="https://samuelteigland.com/">
+         <img alt="Personal Website" title="Check out my personal website!" src="https://custom-icon-badges.demolab.com/badge/-My_Personal_Website-red?   style=for-the-badge&logo=workflow&logoColor=white"/></a>
+         <a href="https://genesisclothingco.com/">
+         <img alt="Genesis Clothing Co Website" title="Check out my business website!" src="https://custom-icon-badges.demolab.com/badge/-Genesis_Clothing_Co_Website-white?   style=for-the-badge&logo=workflow&logoColor=black"/></a>
+         <a href="linkedin.com/in/samuel-teigland">
+         <img alt="Genesis Clothing Co Website" title="Check out my business website!" src=""/></a>
+         
+         
