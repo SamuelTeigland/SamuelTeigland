@@ -17,5 +17,6 @@ I am currently a student at Lipscomb University studying both business and compu
 <p align="left">
          <a href="https://github.com/SamuelTeigland/SamuelTeigland/blob/main/SamuelTeiglandResumeFnl.pdf">
                   <img alt="Sam's Resumé" title="Here's my resumé!" src="https://custom-icon-badges.demolab.com/badge/-Download_Resumé-rgb(208, 107, 255)?style=for-the-badge&logo=download&logoColor=white"
+</p>
          
          
