@@ -13,7 +13,6 @@ I am currently a student at Lipscomb University studying both business and compu
                   <img alt="Personal Email" title="Here's my email!" src="https://custom-icon-badges.demolab.com/badge/-samuelteigland@gmail.com-rgb(64, 92, 255)?style=for-the-badge&logo=mention&logoColor=white"/></a>
          <img alt="Phone Number" title="Here's my phone number!" src="https://custom-icon-badges.demolab.com/badge/-443--406--0037-rgb(255, 150, 64)?style=for-the-badge&logo=phone&logoColor=white"/>
 </p>
-<br/>
 <p align="left">
          <a href="https://github.com/SamuelTeigland/SamuelTeigland/blob/main/SamuelTeiglandResumeFnl.pdf">
                   <img alt="Sam's Resumé" title="Here's my resumé!" src="https://custom-icon-badges.demolab.com/badge/-Download_Resumé-rgb(208, 107, 255)?style=for-the-badge&logo=download&logoColor=white"
