@@ -1,6 +1,8 @@
-### Hello, I'm Sam Teigland!
+## Hello, I'm Sam Teigland!
 
 ---
+
+### About Me
 
 I am currently a student at Lipscomb University studying both business and computer science!  I am currently focusing a lot on learning about web development and design, but also have some experience with databases, data structures and algorithms, cybersecurity, and full-stack development.  As I continue to learn as a programmer and developer, I would like to work my way into full-stack website development.  Below are a few of my links if you would like to follow my journey!
 
