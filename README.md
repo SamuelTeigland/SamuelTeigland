@@ -11,5 +11,7 @@ I am currently a student at Lipscomb University studying both business and compu
                   <img alt="LinkedIn" title="Check out my LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=comment-discussion&logoColor=white"/></a>
          <a href="https://samuelteigland@gmail.com">
                   <img alt="Personal Email" title="Here's my email!" src="https://custom-icon-badges.demolab.com/badge/-samuelteigland@gmail.com-rgb(64, 92, 255)?style=for-the-badge&logo=mention&logoColor=white"/></a>
+         <img alt="Phone Number" title="Here's my phone number!" src="https://custom-icon-badges.demolab.com/badge/-443--406--0037-rgb(255, 150, 64)?style=for-the-badge&logo=phone&logoColor=white"/>
+         
          
          
