@@ -4,10 +4,10 @@ I am currently a student at Lipscomb University studying both business and compu
 
 <p align="left">
          <a href="https://samuelteigland.com/">
-         <img alt="Personal Website" title="Check out my personal website!" src="https://custom-icon-badges.demolab.com/badge/-My_Personal_Website-red?   style=for-the-badge&logo=workflow&logoColor=white"/></a>
+         <img alt="Personal Website" title="Check out my personal website!" src="https://custom-icon-badges.demolab.com/badge/-My_Personal_Website-red?style=for-the-badge&logo=workflow&logoColor=white"/></a>
          <a href="https://genesisclothingco.com/">
-         <img alt="Genesis Clothing Co Website" title="Check out my business website!" src="https://custom-icon-badges.demolab.com/badge/-Genesis_Clothing_Co_Website-white?   style=for-the-badge&logo=workflow&logoColor=black"/></a>
+         <img alt="Genesis Clothing Co Website" title="Check out my business website!" src="https://custom-icon-badges.demolab.com/badge/-Genesis_Clothing_Co_Website-white?style=for-the-badge&logo=workflow&logoColor=black"/></a>
          <a href="linkedin.com/in/samuel-teigland">
-         <img alt="Genesis Clothing Co Website" title="Check out my business website!" src=""/></a>
+         <img alt="Genesis Clothing Co Website" title="Check out my business website!" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=comment-discussion&logoColor=white"/></a>
          
          
