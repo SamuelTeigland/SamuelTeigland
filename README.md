@@ -7,9 +7,9 @@ I am currently a student at Lipscomb University studying both business and compu
                   <img alt="Personal Website" title="Check out my personal website!" src="https://custom-icon-badges.demolab.com/badge/-My_Personal_Website-red?style=for-the-badge&logo=workflow&logoColor=white"/></a>
          <a href="https://genesisclothingco.com/">
                   <img alt="Genesis Clothing Co Website" title="Check out my business website!" src="https://custom-icon-badges.demolab.com/badge/-Genesis_Clothing_Co_Website-white?style=for-the-badge&logo=workflow&logoColor=black"/></a>
-         <a href="linkedin.com/in/samuel-teigland">
+         <a href="https://linkedin.com/in/samuel-teigland">
                   <img alt="LinkedIn" title="Check out my LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=comment-discussion&logoColor=white"/></a>
-         <a href="samuelteigland@gmail.com">
+         <a href="https://samuelteigland@gmail.com">
                   <img alt="Personal Email" title="Here's my email!" src="https://custom-icon-badges.demolab.com/badge/-samuelteigland@gmail.com-rgb(64, 92, 255)?style=for-the-badge&logo=mention&logoColor=white"/></a>
          
          
