@@ -15,9 +15,7 @@ I am currently a student at Lipscomb University studying both business and compu
          <a href="https://github.com/SamuelTeigland/SamuelTeigland/blob/main/SamuelTeiglandResumeFnl.pdf">
                   <img alt="Sam's Resumé" title="Here's my resumé!" src="https://custom-icon-badges.demolab.com/badge/-Download_Resumé-rgb(208, 107, 255)?style=for-the-badge&logo=download&logoColor=white"
          <a href="https://github.com/SamuelTeigland?tab=followers">
-         <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SamuelTeigland?color=rgb(46, 130, 179)&labelColor=rgb(46, 130, 179)&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/SamuelTeigland?tab=repositories&sort=stargazers">
-         <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SamuelTeigland?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+                  <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SamuelTeigland?color=rgb(46, 130, 179)&labelColor=rgb(46, 130, 179)&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <a href="https://github.com/SamuelTeigland?tab=repositories&sort=stargazers">
+                  <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SamuelTeigland?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
-         
-         
