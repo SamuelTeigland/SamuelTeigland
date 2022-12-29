@@ -38,3 +38,9 @@ I am currently a student at Lipscomb University studying both business and compu
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+---
+
+### My Statistics
+
+![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelteigland&show_icons=true&theme=onedark)
