@@ -45,11 +45,3 @@ I am currently a student at Lipscomb University studying both business and compu
 ### My Statistics
 
 ![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelteigland&show_icons=true&theme=onedark)
-
----
-
-### My Details
-
-[Personal Website]: https://samuelteigland.com/
-[Business Website]: https://genesisclothingco.com/
-[LinkedIn]: linkedin.com/in/samuel-teigland
