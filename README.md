@@ -39,9 +39,3 @@ I am currently a student at Lipscomb University studying both business and compu
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
----
-
-### My Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTeigland&layout=compact)](https://github.com/SamuelTeigland/github-readme-stats)
