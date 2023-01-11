@@ -44,4 +44,4 @@ I am currently a student at Lipscomb University studying both business and compu
 
 ### My Statistics
 
-![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelteigland&show_icons=true&theme=onedark&env=PAT_1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTeigland&layout=compact)](https://github.com/SamuelTeigland/github-readme-stats)
